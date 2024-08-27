@@ -1,0 +1,24 @@
+#task1
+def linear_search(list,element):
+	for index,item in enumerate(list):
+	  if item == element:
+	    return (index+1)
+list=[1,2,3.4.5.6]
+element=[3]
+position=linear_search9list,element)
+print("position",element,"in the list",list)
+print()
+
+#task2
+def common_number(l1,l2)
+	for x in l1:
+	   for y in 12:
+                         if x==y:
+                      result=true
+                      return result
+l1=[1,2,3,4,5]
+l2=[0,6,5,8,9]
+key=eval(input("enter element to search")
+for i in range (len(l1 or l2)):
+    if key==l1 or l2[i]
+      print(i)
